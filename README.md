@@ -1,3 +1,9 @@
+## 📎 Project URL
+
+https://roadmap.sh/projects/server-stats
+
+---
+
 # 🖥️ Server Performance Analyzer (server-stats.sh)
 
 A simple and portable Bash script that provides a quick health check of a Linux server by analyzing CPU, memory, disk usage, and top resource-consuming processes. Ideal for system administrators, DevOps engineers, and anyone managing Linux servers.
@@ -85,10 +91,4 @@ PID    COMMAND    %MEM
 🚫 Failed SSH Login Attempts (Last 24 hours): 5
 -------------------------------------------
 ```
----
-
-## 📎 Project URL
-
-https://github.com/muhammadhabiburrehman/server-performance-stats
-
 ---
